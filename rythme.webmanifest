@@ -1,0 +1,1 @@
+{"name": "Mon rythme boulot", "short_name": "Boulot", "start_url": "./mon-rythme-boulot.html", "scope": "./", "display": "standalone", "background_color": "#f2efff", "theme_color": "#f2efff", "icons": [{"src": "rythme-180.png", "sizes": "180x180", "type": "image/png"}, {"src": "rythme-512.png", "sizes": "512x512", "type": "image/png"}]}
